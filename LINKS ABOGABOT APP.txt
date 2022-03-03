@@ -1,0 +1,13 @@
+LINKS ABOGABOT APP:
+
+Pantalla inicial: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/d12245cc-1680-458d-89dd-4f0d7fb22724
+
+Inicio de sesión: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/06735a7d-25f9-49c1-b2bf-82da175fb2ee
+
+Nuevo Usuario: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/6a20eb13-9841-4c93-a6ed-a26e6c5e6809
+
+Menú principal: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/beb91e3d-09dc-44c7-bd6e-828132ca95a8
+
+Formulario: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/4bfd5680-0009-44e3-ba98-644df11986b4
+
+Pantalla de pago: https://cloud.justinmind.com/usernote/prototypes/70202542/70207568/70207590/index.html#/screens/a606d5ea-db30-4c8b-8154-097daf1f8806
